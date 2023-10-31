@@ -1,4 +1,4 @@
-<h1>My Coin Rajesh 🪙/h1>
+<h1>My Coin Rajesh 🪙</h1>
 <p>This contract has minting ```mint``` and burning ```burn``` functions to manipulate token amount present on chain.</p>
 
 <h2>Details 🗒️</h2>
